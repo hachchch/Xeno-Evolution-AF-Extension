@@ -1,0 +1,91 @@
+[
+	// Landfall Era
+	{
+		"columnNumber": 0,
+		"era": "Landfall era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 180,
+		"techs": [
+			{
+				"name": "Old Earth Knowledge",
+				"row": 8,
+				"quote": "'Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!' - Yuri Gagarin",
+				"uniques": ["Starting tech","Only available <before discovering []>"],
+				"civilopediaText": [
+					{
+						"text": "'Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!' - Yuri Gagarin"
+					}
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 14,
+		"era": "Noachian",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 180,
+		"techs": [
+			{
+                                "name": "Xeno Evolution",
+                        },
+                ]
+        },
+        {
+                "columnNumber": 2,
+		"era": "Noachian",
+		"techCost": 55,
+		"buildingCost": 100,
+		"wonderCost": 200,
+		"techs": [
+			{
+                                "name": "Reinforced Pelvis",
+                                "row": 5,
+                        },
+                        {
+                                "name": "Filter Feeding",
+                                "row": 1,
+                        },
+                        {
+                                "name": "Halophile",
+                                "row": 9,
+                        },
+                        {
+                                "name": "Frontal Appendages",
+                                "row": 8,
+                        },
+                        {
+                                "name": "Setal Blades",
+                                "row": 7,
+                        },
+                        {
+                                "name": "Carapace",
+                                "row": 6,
+                        },
+                        {
+                                "name": "Lobopod",
+                                "row": 4,
+                        },
+                        {
+                                "name": "Endosymbiont",
+                                "row": 3,
+                        },
+                        {
+                                "name": "Nektonic Predator",
+                                "row": 2,
+                        }
+                ]
+        },
+        {
+                "columnNumber": 3,
+		"era": "Hesperian",
+		"techCost": 105,
+		"buildingCost": 160,
+		"wonderCost": 320,
+		"techs": [
+                        {
+                        }
+                ]
+        }
+]

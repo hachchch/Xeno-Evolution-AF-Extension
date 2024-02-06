@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Xeno Melee Land",
+		"movementType": "Land"
+	},
+	{
+		"name": "Xeno Ranged Land",
+		"movementType": "Land"
+	},
+	{
+		"name": "Xeno Melee Water",
+		"movementType": "Water"
+	},
+	{
+		"name": "Xeno Stealth Water",
+		"movementType": "Water",
+		"uniques": [
+			"Can enter ice tiles",
+			"Invisible to non-adjacent units",
+			"Can see invisible [Submarine] units"
+		]
+	},
+	{
+		"name": "Xeno Air",
+		"movementType": "Land",
+		"uniques": ["Air","Can pass through impassable tiles", /* "[+1] Sight <when [Embarked]>","[1] Movement point cost to disembark","[1] Movement point cost to embark","May attack when embarked", */ "May travel on Water tiles without embarking"]
+	},
+]
